@@ -1,0 +1,6 @@
+{
+  "name": "Daily Run Tracker",
+  "description": "Simple daily running tracker website with persistent storage for kilometers, time, pace, day tracking, and progress trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
